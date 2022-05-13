@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-image: url('/src/images/ingram-schell-06-02-opalcliffs-artstation.png');
+    background-image: url("src/images/ingram-schell-06-02-opalcliffs-artstation.png");
     background-attachment: fixed; 
     background-size: cover;
 }

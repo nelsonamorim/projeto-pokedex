@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://cdn-icons-png.flaticon.com/512/188/188942.png" align="center"/>
-<h2 align="center"> Projeto Pokédex </h2>
+<h2 align="center"> Projeto Pokédex <img src="https://github.com/nelsonamorim/projeto-pokedex/blob/master/src/images/pokebola.png"></h2>
 <p align="center"> Projeto feito inspirado no evento MapaDev Week do @devemdobro.🚀<br>
 A ideia foi criar uma Pokédex com os Pokémons da primeira geração e nela poder selecionar e ver as informações de cada Pokémon. </p> <br>
 <img align="center" src="https://i.imgur.com/JikeMBP.png" width="100%"> 

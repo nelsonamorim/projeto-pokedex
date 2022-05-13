@@ -1,0 +1,127 @@
+@media (max-width: 840px) {
+    body {
+        font-size: 14px;
+    }
+
+    .pokedex {
+        flex-direction: column;
+        padding: 30px 0;
+    }
+
+    picture img {
+        max-width: 320px;
+    }
+
+    .cartao-pokemon {
+        max-width: 320px;
+    }
+
+    .cartao-pokemon .cartao-imagem {
+        width: 220px;
+        height: 220px;
+    }
+
+    .cartao-pokemon .cartao-info {
+        padding: 60px 30px 30px;
+        margin-top: -50px;
+    }
+
+    .cartao-pokemon .cartao-info .info {
+        display: flex;
+        justify-content: space-between;
+        padding: 0;
+    }
+
+    .cartao-pokemon .cartao-info h3 {
+        font-size: 18px;
+    }
+
+    .listagem {
+        max-width: 320px;
+    }
+
+    .listagem ul {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .listagem .pokemon {
+        width: 150px;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        margin-bottom: 0;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+
+    .listagem .pokemon span {
+        padding-right: 5px;
+    }
+}
+
+@media (max-width: 750px) {
+    body {
+        font-size: 12px;
+    }
+
+    .pokedex {
+        flex-direction: column;
+        padding: 30px 0;
+    }
+
+    picture img {
+        max-width: 300px;
+    }
+
+    .cartao-pokemon {
+        max-width: 300px;
+    }
+
+    .cartao-pokemon .cartao-imagem {
+        width: 200px;
+        height: 200px;
+    }
+
+    .cartao-pokemon .cartao-info {
+        padding: 60px 30px 30px;
+        margin-top: -50px;
+    }
+
+    .cartao-pokemon .cartao-info .info {
+        display: flex;
+        justify-content: space-between;
+        padding: 0;
+    }
+
+    .cartao-pokemon .cartao-info h3 {
+        font-size: 16px;
+    }
+
+    .listagem {
+        max-width: 300px;
+    }
+
+    .listagem ul {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .listagem .pokemon {
+        width: 140px;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        margin-bottom: 0;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+
+    .listagem .pokemon span {
+        padding-right: 5px;
+    }
+}

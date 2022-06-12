@@ -1,9 +1,16 @@
-<p align="center">
- <img width="100px" src="https://cdn-icons-png.flaticon.com/512/188/188942.png" align="center"/>
-<h2 align="center"> Projeto Pokédex </h2>
-<p align="center"> Projeto feito inspirado no evento MapaDev Week do @devemdobro.🚀<br>
-A ideia foi criar uma Pokédex com os Pokémons da primeira geração e nela poder selecionar e ver as informações de cada Pokémon. </p> <br>
-<img align="center" src="https://i.imgur.com/JikeMBP.png" width="100%"> 
+<h1 align="center"> Projeto Pokédex <img src="https://github.com/nelsonamorim/projeto-pokedex/blob/master/src/images/pokebola.png"></h1>
+<p> Projeto feito com inspiração no evento MapaDev Week do @devemdobro.🚀<br>
+A ideia foi criar uma Pokédex com alguns Pokémons da primeira geração e nela poder selecionar e ver as informações de cada Pokémon. <p>
+Com o passar do tempo vou adicionando mais Pokémons</p><br>
+
+
+<h2 align="center"> Screenshots </h2>
+
+<h3>desktop</h3>
+<img align="center" src="https://github.com/nelsonamorim/projeto-pokedex/blob/master/src/images/projeto%20pokedex.png">
+<h3>mobile</h3>
+<img align="center" src="https://github.com/nelsonamorim/projeto-pokedex/blob/master/src/images/projeto-pokedex-smarphone.png">
+<img align="center" src="https://github.com/nelsonamorim/projeto-pokedex/blob/master/src/images/projeto-pokedex-smartphone2.png">
 
 <h2 align="center"> Stacks utilizadas 💻</h2>
 <div align="center" style="display: inline_block">

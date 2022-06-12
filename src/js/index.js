@@ -1,6 +1,9 @@
 const listaPokemon = document.querySelectorAll('.pokemon')
 const pokemonsCard = document.querySelectorAll('.cartao-pokemon')
 
+var audioMouseOver = document.getElementsByClassName('soundMouseOver')[0];
+var audioClick = document.getElementsByClassName('soundClick')[0];
+
 listaPokemon.forEach(pokemon => {
     pokemon.addEventListener('click', () => {
         const cartaoPokemonAberto = document.querySelector('.aberto')
@@ -18,5 +21,15 @@ listaPokemon.forEach(pokemon => {
 
         const pokemonSelectedListagem = document.getElementById(idPokemonSelected)
         pokemonSelectedListagem.classList.add('ativo')
+    })
+
+    pokemon.addEventListener('mouseenter', () => {
+        audioMouseOver.volume = 0.1;
+        audioMouseOver.play();
+    })
+
+    pokemon.addEventListener('click', () => {
+        audioClick.volume = 0.1;
+        audioClick.play();
     })
 })

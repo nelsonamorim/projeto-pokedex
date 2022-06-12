@@ -43,3 +43,16 @@
 .listagem .pokemon.ativo{
     background-color: #FA6668;
 }
+
+.listagem::-webkit-scrollbar {
+    width: 10px;
+}
+
+.listagem::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+
+.listagem::-webkit-scrollbar-thumb:hover {
+    background-color: grey;
+}
